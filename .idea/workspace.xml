@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02f0c185-520e-4aea-ba96-9f5ceaabfa0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.gitpod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/libraries/mssql_jdbc_7_4_1_jre8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/libraries/mssql_jdbc_7_4_1_jre8_shaded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/logs/2023-05/logger-log4j2-05-30-2023-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/logs/2023-05/logger-log4j2-05-31-2023-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/logs/2023-06/logger-log4j2-06-01-2023-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/logs/2023-06/logger-log4j2-06-02-2023-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/logs/logger-log4j2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/OmsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/config/AuthenticationSuccessHandlerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/config/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/controller/ExceptionHandlingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/controller/ProductCategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/dao/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/dao/ProductCategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/dao/ProductRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/dao/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/dao/UsersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/exceptions/OrderNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/exceptions/ProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/exceptions/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/model/OrderProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/model/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/security/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/security/UsersPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/service/ProductCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/java/me/anant/OMS/service/UsersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/category/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/order/detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/order/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/product/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/product/report.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/product_category/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/product_category/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/user/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/admin/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/customer/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/customer/order/detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/customer/order/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/customer/order_place.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/exception/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/includes/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/includes/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/includes/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/includes/msg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/src/main/webapp/signup/signup.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/OmsApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/config/AuthenticationSuccessHandlerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/config/LoggingAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/config/WebSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/controller/ExceptionHandlingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/controller/OrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/controller/ProductCategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/controller/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/dao/OrderRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/dao/ProductCategoryRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/dao/ProductRepo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/dao/ProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/dao/UsersRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/exceptions/OrderNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/exceptions/ProductNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/exceptions/UserNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/model/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/model/OrderProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/model/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/model/ProductCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/model/Users.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/security/CustomUserDetailsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/security/UsersPrincipal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/service/EmailService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/service/EmailService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/service/ProductCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/classes/me/anant/OMS/service/UsersService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order Management System/target/test-classes/me/anant/PMS/PmsApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TnGwdf2nzVpOdYDunto5QCFFjL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ilker/IdeaProjects/ProductManagementSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02f0c185-520e-4aea-ba96-9f5ceaabfa0f" name="Changes" comment="" />
+      <created>1691671670845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691671670845</updated>
+      <workItem from="1691671671708" duration="927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
