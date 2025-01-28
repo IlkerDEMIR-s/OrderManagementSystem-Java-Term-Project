@@ -10,6 +10,7 @@ This is a platform where users can place orders for products, while administrato
 -   Spring Security for Authentication & Authorisation
 -   Hibernate Validator for form data validation
 -   H2 In-memory Database for Storing data
+-   MSSQL
 -   Java Mail API to send HTML E-Mail over SMTP
 -   JSTL
 
